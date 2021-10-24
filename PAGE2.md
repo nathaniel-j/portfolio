@@ -1,3 +1,5 @@
+layout: page
+permalink: /URL-PATH/
 title: second page
 description: page 2
 
