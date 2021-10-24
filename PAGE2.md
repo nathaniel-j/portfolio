@@ -1,5 +1,5 @@
 layout: page
-permalink: /URL-PATH/
+permalink: https://github.com/nathaniel-j/portfolio/blob/main/PAGE2.md
 title: second page
 description: page 2
 
